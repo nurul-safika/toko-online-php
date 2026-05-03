@@ -43,3 +43,14 @@ toko_online/
 ├── kontak.php
 ├── tentang-kami.php
 └── README.md
+
+## 📸 Tampilan Project
+
+### Homepage
+![Homepage](screenshot/home.png.png)
+
+### Halaman Produk
+![Produk](screenshot/produk.png.png)
+
+### Detail Produk
+![Detail](screenshot/detail.png.png)
