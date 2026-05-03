@@ -1,0 +1,130 @@
+.warna1 {
+    background-color: #f7b6b6;
+}
+
+.warna2 {
+    background-color: #F5BABB;
+}
+
+.warna3 {
+    background-color: #F5BABB;
+}
+
+.warna4 {
+    background-color: #F4DFBA;
+}
+
+.banner {
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/banner.jpeg');
+}
+
+.highlighted-kategori {
+    height: 250px;
+}
+
+.kategori-baju-pria {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/baju-pria.jpg'); 
+    background-size: cover;
+    background-position: center;
+    border-radius: 18px;
+}
+
+.kategori-baju-wanita {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/baju-wanita.jpg'); 
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-sepatu {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/sepatu.jpg'); 
+    background-size: cover;
+    background-position: center;
+}
+
+.no-decoration {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.active-kategori {
+    color: #e7b6b6;
+    font-weight: bold;
+}
+
+.no-decoration:hover {
+    color: #e7b6b6;
+}
+
+
+.text-harga{
+    font-size: 22px;
+    color: #e88412;
+}
+
+.image-box {
+    height: 250px;
+}
+
+.image-box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content-subscribe {
+    background-color: #f3c1cf;
+}
+
+.content-subscribe a {
+    color: #f3c1cf;
+}
+
+
+.banner-produk {
+    height: 45vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/banner.jpeg'); 
+    background-position: 50% 35%;
+}
+
+.produk-terkait-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.navbar.warna1 .nav-link {
+    font-weight: 700;
+    font-size: 16px;
+    color: #ffffff !important;
+}
+
+.navbar.warna1 .nav-link:hover {
+    color: #ffe5e5 !important;
+    text-decoration: underline;
+}
+
+body {
+    background-color: #fae8e3;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-justify {
+    text-align: justify;
+    text-align-last: left;
+    line-height: 1.8;
+}
+
+
+
+
+
+
+
+
+
+
+
+

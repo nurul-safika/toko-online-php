@@ -1,0 +1,142 @@
+body {
+    background-color: #fff3f0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.custom-navbar {
+    background-color: #f7b6b6;
+}
+
+.custom-navbar .nav-link {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.custom-navbar .nav-link:hover {
+    text-decoration: underline;
+}
+
+.custom-navbar .navbar-toggler {
+    border-color: rgba(255,255,255,0.7);
+}
+
+.custom-navbar .navbar-toggler-icon {
+    filter: brightness(0) invert(1);
+}
+
+
+.main-content {
+    padding: 40px 60px;
+}
+
+.dashboard {
+    display: flex;
+    gap: 25px;
+}
+
+
+.summary-kategori,
+.summary-produk {
+    border-radius: 16px;
+    padding: 24px;
+    height: 100%;
+    box-shadow: 0 16px 35px rgba(0,0,0,0.18);
+    border: 1px solid rgba(255,255,255,0.8);
+    transition: 0.3s;
+}
+
+
+.summary-kategori {
+    background: linear-gradient(135deg, #f3a6a6, #f7bcbc);
+}
+
+.summary-produk {
+    background: linear-gradient(135deg, #f29aa0, #f6b1b6);
+}
+
+
+.summary-kategori:hover,
+.summary-produk:hover {
+    transform: translateY(-5px);
+}
+
+
+.summary-kategori h3,
+.summary-produk h3 {
+    color: #000;
+}
+
+.summary-kategori p,
+.summary-produk p {
+    color: #000;
+}
+
+.summary-kategori a,
+.summary-produk a {
+    color: #ffffff;
+}
+
+
+.no-decoration {
+    text-decoration: none;
+}
+
+
+.btn-edit {
+    background-color: #f7b6b6;
+    color: #000;
+    border: none;
+}
+
+.btn-edit:hover {
+    background-color: #f29aa0;
+}
+
+/* HAPUS */
+.btn-hapus {
+    background-color: #ff7a7a;
+    color: #fff;
+    border: none;
+}
+
+.btn-hapus:hover {
+    background-color: #e85c5c;
+}
+
+/* SIMPAN */
+.btn-simpan {
+    background-color: #f4b1b1;
+    color: #f0e9e9;
+    border: none;
+    font-size: 20px;
+}
+
+.btn-simpan:hover {
+    background-color: #f19c9c;
+}
+
+/* ACTION / DETAIL */
+.btn-action {
+    background-color: #f8caca;
+    color: #000;
+    border: none;
+}
+
+.btn-action:hover {
+    background-color: #f4b1b1;
+}
+
+/* UMUM */
+.btn-edit,
+.btn-hapus,
+.btn-simpan,
+.btn-action {
+    border-radius: 10px;
+    padding: 8px 18px;
+    font-size: 20px;
+}
+
+
+
+
