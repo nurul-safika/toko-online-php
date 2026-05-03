@@ -49,10 +49,10 @@ toko_online/
 ## 📸 Tampilan Project
 
 ### Homepage
-![Homepage](screenshot/home.png)
+- ![Homepage](screenshot/home.png)
 
 ### Halaman Produk
-![Produk](screenshot/produk.png)
+- ![Produk](screenshot/produk.png)
 
 ### Detail Produk
-![Detail](screenshot/detail.png)
+- ![Detail](screenshot/detail.png)
