@@ -36,7 +36,7 @@ Project website toko online sederhana berbasis PHP Native dan MySQL yang dibuat 
 - ![Produk](screenshot/produk.png)
 
 ### Detail Produk
-- ![Detail](screenshot/detail produk.png)
+- ![Detail](screenshot/detail_produk.png)
 
 ---
 
