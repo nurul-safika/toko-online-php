@@ -27,6 +27,19 @@ Project website toko online sederhana berbasis PHP Native dan MySQL yang dibuat 
 
 ---
 
+## 📸 Tampilan Project
+
+### Homepage
+- ![Homepage](screenshot/home.png)
+
+### Halaman Produk
+- ![Produk](screenshot/produk.png)
+
+### Detail Produk
+- ![Detail](screenshot/detail.png)
+
+---
+
 ## 📂 Struktur Folder
 
 ```bash
@@ -44,15 +57,3 @@ toko_online/
 ├── tentang-kami.php
 └── README.md
 
----
-
-## 📸 Tampilan Project
-
-### Homepage
-- ![Homepage](screenshot/home.png)
-
-### Halaman Produk
-- ![Produk](screenshot/produk.png)
-
-### Detail Produk
-- ![Detail](screenshot/detail.png)
